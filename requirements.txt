@@ -7,7 +7,7 @@ command-not-found==0.3
 configobj==5.0.6
 cryptography==1.2.3
 django-htmlmin==0.10.0
-Flask==0.12
+Flask==1.0
 Flask-Compress==1.4.0
 Flask-WTF==0.14.2
 fpdf==1.7.2
